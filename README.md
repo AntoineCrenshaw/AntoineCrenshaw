@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntoineCrenshaw
 - 👀 I’m interested in ... reading financial and self help books, skateboarding, and working out at the gym.
-- 🌱 I’m currently learning ... Javascript and Node.js.
+- 🌱 I’m currently learning ... Svelte.
 - 📫 How to reach me ... antoine17343@gmail.com
 
 <!---
